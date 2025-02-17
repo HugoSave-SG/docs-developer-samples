@@ -1,0 +1,4 @@
+bulk_transactions
+amount, notes, product_id, txn_code, transaction_type, txn_id, value_ts
+300.0," ""First test transaction""", CA_945, ATM_WITH," ""CREDIT""","""txn1001""","""2025-01-20T09:27:02.584189Z"""
+120.0," ""Second test transaction""",CA_874,ATM_WITH," “DEBIT""","""txn1002""","""2025-01-20T09:27:02.584189Z"""
