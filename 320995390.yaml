@@ -1,0 +1,84 @@
+ROOT:
+  1:
+    cbAttributeValue: CONVENTIONAL
+    cbDescription: Conventional node
+    children:
+      1:
+        cbAttributeValue: PUNJAB
+        cbDescription: Punjab province node
+        children:
+          1:
+            cbAttributeValue: DC-PUNJAB-CONVENTIONAL
+            cbDescription: Digital Customer Business unit
+          2:
+            cbAttributeValue: DA-PUNJAB-CONVENTIONAL
+            cbDescription: Digital Agent Business unit
+          3:
+            cbAttributeValue: BAAS-PUNJAB-CONVENTIONAL
+            cbDescription: Business as a Service Business unit
+          4:
+            cbAttributeValue: FC1-PUNJAB-CONVENTIONAL
+            cbDescription: Facilitation Centre Business unit 1
+          5:
+            cbAttributeValue: FC2-PUNJAB-CONVENTIONAL
+            cbDescription: Facilitation Centre Business unit 2
+      2:
+        cbAttributeValue: SINDH
+        cbDescription: Sindh province node
+        children:
+          1:
+            cbAttributeValue: DC-SINDH-CONVENTIONAL
+            cbDescription: Digital Customer Business unit
+          2:
+            cbAttributeValue: DA-SINDH-CONVENTIONAL
+            cbDescription: Digital Agent Business unit
+          3:
+            cbAttributeValue: BAAS-SINDH-CONVENTIONAL
+            cbDescription: Business as a Service Business unit
+          4:
+            cbAttributeValue: FC1-SINDH-CONVENTIONAL
+            cbDescription: Facilitation Centre Business unit 1
+          5:
+            cbAttributeValue: FC2-SINDH-CONVENTIONAL
+  2:
+    cbAttributeValue: ISLAMIC
+    cbDescription: Islamic node
+    children:
+      1:
+        cbAttributeValue: PUNJAB
+        cbDescription: Punjab province node
+        children:
+          1:
+            cbAttributeValue: DC-PUNJAB-ISLAMIC
+            cbDescription: Digital Customer Business unit
+          2:
+            cbAttributeValue: DA-PUNJAB-ISLAMIC
+            cbDescription: Digital Agent Business unit
+          3:
+            cbAttributeValue: BAAS-PUNJAB-ISLAMIC
+            cbDescription: Business as a Service Business unit
+          4:
+            cbAttributeValue: FC1-PUNJAB-ISLAMIC
+            cbDescription: Facilitation Centre Business unit 1
+          5:
+            cbAttributeValue: FC2-PUNJAB-ISLAMIC
+            cbDescription: Facilitation Centre Business unit 2
+      2:
+        cbAttributeValue: SINDH
+        cbDescription: Sindh province node
+        children:
+          1:
+            cbAttributeValue: DC-SINDH-ISLAMIC
+            cbDescription: Digital Customer Business unit
+          2:
+            cbAttributeValue: DA-SINDH-ISLAMIC
+            cbDescription: Digital Agent Business unit
+          3:
+            cbAttributeValue: BAAS-SINDH-ISLAMIC
+            cbDescription: Business as a Service Business unit
+          4:
+            cbAttributeValue: FC1-SINDH-ISLAMIC
+            cbDescription: Facilitation Centre Business unit 1
+          5:
+            cbAttributeValue: FC2-SINDH-ISLAMIC
+     
