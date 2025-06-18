@@ -1,0 +1,3 @@
+amount, base_currency_rate_per_unit, booking_ts, currency, department_code, end_customer_profile_id, financial_entry_id, mapped_cb_code, mapped_gl_code, notes, product_id, txn_code, transaction_type, txn_id, value_ts
+300.0, 1.0, "2025-10-20T09:27:02.584189Z", "PKR", "dep_1", "ECPid1","financial_entry_id_1","10101","31010101000000", "First test transaction", "", "", "CREDIT", "txn1001", "2025-10-20T09:27:02.584189Z"
+300.0, 1.0, "2025-10-20T09:27:02.584189Z", "PKR", "dep_1", "ECPid1","financial_entry_id_2","10101","31010101000000", "Second test transaction", "", "", "CREDIT", "txn1002", "2025-10-20T09:27:02.584189Z"
