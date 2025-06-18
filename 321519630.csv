@@ -1,8 +1,0 @@
-card_provider,card_courier_partner,card_delivery_tracking_url,card_id,card_delivery_status,card_tracking_number
-NYMCARD,Amazon,http://www.somewebsite.com,769a1e36-7ebb-4f75-af3b-4b81d105d2ca,DISPATCHED,trackingnum37456
-NYMCARD,Flipkart,http://www.somewebsite.com,4f066a45-53d8-459d-bb90-a650077d9896,DISPATCHED,trackingnum3745
-NYMCARD,DHL,http://www.somewebsite.com,6f30cb6a-d883-4789-8f4f-8688037fc2c2,DISPATCHED,Trackingnum37456egf
-NYMCARD,FedEX,http://www.somewebsite.com,5af380f6-fea0-4302-a3e5-93867ad01c06,DISPATCHED,Trackingnum3745643t
-NYMCARD,Myntra,http://www.somewebsite.com,a29ae079-8748-4be1-8a6b-d5592e6a6d9a,DISPATCHED,Trackingnum37456436
-NYMCARD,Sun,http://www.somewebsite.com,98a016b2-66a7-45a4-a2a5-b69d86576c42,DISPATCHED,Trackingnum374
-NYMCARD,Moon,http://www.somewebsite.com,134750e0-4f45-41cf-9f78-fba0d10cdf07,DISPATCHED,Trackingnum374563iu4fbn4u3
